@@ -1,2 +1,2 @@
 # hello-world
-Newbie projects
+Just newbie projects
