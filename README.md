@@ -4,7 +4,6 @@ and logs them to the console
  */
  
 package com.example.introtokotlin
-
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
